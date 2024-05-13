@@ -1,4 +1,4 @@
-# Poor Random Number Generator [1/2]
+# Poor Random Number Generator [2/2]
 
 - **Category** : Crypto
 - **Difficulty** : Medium
