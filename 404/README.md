@@ -1,4 +1,4 @@
-# 404CTF 2024
+# 404 CTF 2024
 
 - **My rank** : 178 / 3791
 - Solved Crypto chal : 7 / 12
